@@ -2,7 +2,7 @@ function soma (a, b) {
   return a + b;
 }
 
-const resultado = soma(5, 9);
+const resultado = soma(15, 9);
 const resultado2 = soma(20, 30);
 
 
