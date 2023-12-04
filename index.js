@@ -6,7 +6,6 @@ const resultado = soma(15, 9);
 const resultado2 = soma(20, 30);
 
 
-console.log("resultado", resultado)
-
-
 console.log("coe familia")
+
+console.log('tabica')
